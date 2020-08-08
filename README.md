@@ -1,6 +1,6 @@
 # Thread_Scheduling_OperatingSystemConcept2020
 
-### C언어를 이용한 Thread 스케줄링과 multi-level queue 구현
+### 리눅스 환경에서 pthread와 POSIX semaphore를 이용한 Thread Scheducling과 Multi-Level Queue 구현
 
 #### 프로그램 설명
  본 프로그램은 Ubuntu (64-bit) 운영 체제에서 c언어로 구현하고 실행하였으며 gcc 컴파일러를 이용하여 컴파일 하였습니다.<br>
@@ -12,7 +12,6 @@ __세부사항은 보고서(Report.docx)를 참조하십시오.__
 
 ***
 
-### Application of Thread Scheduling and Multi-level Queue with C
 
 
 
